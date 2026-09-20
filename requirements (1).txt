@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+nibabel
+nilearn
+SimpleITK
+patool
+pyunpack
+scikit-image
+scikit-learn
+scipy
+plotly
+ipywidgets

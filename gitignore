@@ -1,0 +1,19 @@
+# Data (never commit patient imaging data)
+/data/
+/ms_data/
+*.rar
+*.nii
+*.nii.gz
+manifest.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
