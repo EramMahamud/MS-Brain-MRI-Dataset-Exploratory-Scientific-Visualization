@@ -1,2 +1,0 @@
-# MS-Brain-MRI-Dataset-Exploratory-Scientific-Visualization
- Multiple Sclerosis (MS) brain MRI, 100 patients (full scans, NIfTI volumes, registered volumes, lesion masks, GIF previews, model-ready input)  Scope of this notebook: exploratory data analysis and scientific visualization only — no model training. Goal is to understand volume geometry, intensity , lesion burden, and spatial lesion patterns  
